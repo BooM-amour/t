@@ -253,7 +253,7 @@ Our channels
 @vIRus_TM [News]
 
 
-@ [Server Shop]
+@unixweb_org [Server Shop]
 
 برای خرید سرور های مجازی به آدرس زیر مراحعه شود
    😁
