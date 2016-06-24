@@ -233,7 +233,7 @@ function create_config( )
 	"msg_checks",
 	"plugins"
     },
-    sudo_users = {223216007,0,tonumber(our_id)},--Sudo users
+    sudo_users = {223216007,235549912,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[https://telegram.me/virus_tm
 
